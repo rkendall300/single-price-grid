@@ -142,7 +142,7 @@ li {
     margin: 3px 0;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 650px) {
     #card {
         min-height: 0;
         width: 640px;
