@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/single-price-grid/static/css/main.dcdb35af.css",
+    "main.js": "/single-price-grid/static/js/main.2e720bf4.js",
+    "static/media/Karla-Bold.ttf": "/single-price-grid/static/media/Karla-Bold.23ca816af95c228bcb4e.ttf",
+    "static/media/Karla-Regular.ttf": "/single-price-grid/static/media/Karla-Regular.f950111be01b92a807ba.ttf",
+    "index.html": "/single-price-grid/index.html",
+    "main.dcdb35af.css.map": "/single-price-grid/static/css/main.dcdb35af.css.map",
+    "main.2e720bf4.js.map": "/single-price-grid/static/js/main.2e720bf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcdb35af.css",
+    "static/js/main.2e720bf4.js"
+  ]
+}
